@@ -165,3 +165,79 @@
 
     }
 }
+
+@media (min-height: 416px) {
+    .container {
+        width: 90%;
+    }
+
+    .header-logo {
+        font-size: 23px;
+    }
+
+    .product-title {
+        font-size: 20px;
+    }
+
+    .block {
+        width: 80px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    .block2 {
+        width: 80px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    .fa-google-play {
+        font-size: 24px;
+    }
+
+    .footer-end button {
+        width: 50px;
+        height: 50px;
+        margin: 18px;
+    }
+
+    .fa-arrow-up {
+        font-size: 23px;
+    }
+
+    .footer-end {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .icon {
+        margin-left: 55px;
+        padding: 20px;
+    }
+
+    .footer h1 {
+        margin-left: 50px;
+    }
+
+    .comment {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .ubereats {
+        margin-left: 50px;
+    }
+
+    .uber {
+        margin-left: 63px;
+    }
+
+    .obsh {
+        flex-direction: column;
+    }
+
+    .comment {
+        margin-left: 50px;
+    }
+
+}
